@@ -102,7 +102,10 @@ body.pace-white .pace .pace-progress {
   top: 0;
 }
 .header.transparent-light {
-  background-color: transparent;
+  /*background-color: transparent;*/
+
+  /*========= change ocupancy ============*/
+  background-color: rgba(0,0,0,0.5)
 }
 .header.transparent-light .menu > li > a:not(.btn) {
   color: #ffffff;

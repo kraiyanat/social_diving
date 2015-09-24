@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
-  layout 'frontend'
+  layout 'frontend/frontend'
 
   def index
   end
